@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about how to setup a basic recipe website. I will be using HTML to build it and hopefully it will look ok. Also, this project will help with some workflow using my local machine and Github registry. This will give me some practice using git commands to not only save my data but also to update and backup.
